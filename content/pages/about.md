@@ -27,6 +27,9 @@ aerospace robotics for civilian applications, in particular:
 
 ## Selected projects
 
+- **PEGASUS** (EU Horizon Europe, 2026–2029): Piloting European Green Air
+  Mobility and Services for Urban Societal Readiness.
+  [Project site](https://pegasusproject.eu/)
 - **CAPTURE** (FCT, 2021–2025, PI): shuttle drone for launch and capture.
   [Project site](http://capture.isr.tecnico.ulisboa.pt/)
 - **REPLACE** (FCT, 2018–2022, PI): fast delivery in urban environments using
