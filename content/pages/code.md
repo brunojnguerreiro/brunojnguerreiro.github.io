@@ -60,3 +60,19 @@ the Técnico visual identity. *TeX*
 [Repository](https://github.com/brunojnguerreiro/thesis-template)
 
 <div style="clear:both"></div>
+
+<div style="clear:both"></div>
+
+## In the CybAer lab organization
+
+### dc-motor-control
+
+<img src="{static}/images/code/dc-motor-control.jpg" alt="Arduino-based DC motor position control setup with encoder and motor driver" class="float-image-right">
+
+Position control of a DC motor with encoder using an Arduino, for the
+Introduction to Electrical and Computer Engineering course at NOVA FCT. Students
+see for the first time the difference between a well-tuned controller and one
+with overshoot. Includes the Arduino code, the circuit and 3-D printable parts.
+*C++ (Arduino)*
+
+[Repository](https://github.com/cybaer-nova/dc-motor-control)
