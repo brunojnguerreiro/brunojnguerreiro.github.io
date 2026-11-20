@@ -8,7 +8,7 @@ I am a **Tenured Assistant Professor** at the
 NOVA University Lisbon, and a researcher with **CTS/UNINOVA/LASI** and the
 **Institute for Systems and Robotics** (ISR Lisboa/LARSYS).
 
-I coordinate the MSc and BSc in Aerospace Engineering at NOVA FCT, the CTS B2
+I coordinate the MSc in Aerospace Engineering at NOVA FCT, the CTS B2
 Research Group and the Cyber-physical and Aerospace Control (CybAer) Lab.
 
 I received my PhD in Electrical and Computer Engineering from Instituto
@@ -19,9 +19,9 @@ Superior Técnico (IST), Lisbon, in 2013.
 My work addresses the theoretical, practical and technological challenges of
 aerospace robotics for civilian applications, in particular:
 
-- sensor-based SLAM and navigation
+- trajectory planning and tracking for multiple drones
 - model predictive control (MPC), linear and nonlinear control
-- trajectory planning and tracking for drones
+- sensor-based SLAM and navigation
 - automatic LiDAR calibration
 - modelling and instrumentation of aerial and marine vehicles
 
