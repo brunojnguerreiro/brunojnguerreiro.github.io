@@ -44,3 +44,8 @@ More on my [personal website](https://www.brunojnguerreiro.eu/research).
 ## Contact
 
 bj.guerreiro [at] fct.unl.pt · NOVA FCT, Ed. X, Gabinete 2.10, 2829-516 Caparica, Portugal
+
+Profiles: [personal website](https://www.brunojnguerreiro.eu/) ·
+[Google Scholar](https://scholar.google.pt/citations?user=TdFhrtAAAAAJ) ·
+[ORCID](https://orcid.org/0000-0002-4511-5114) ·
+[GitHub](https://github.com/brunojnguerreiro)

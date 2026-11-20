@@ -2,6 +2,10 @@ AUTHOR = 'Bruno J. N. Guerreiro'
 SITENAME = 'Bruno J. N. Guerreiro'
 SITESUBTITLE = 'Aerospace robotics, control and estimation'
 SITEURL = ''
+COPYRIGHT = '2026'
+
+THEME = 'themes/Peli-Kiera'
+GITHUB_URL = 'https://github.com/brunojnguerreiro'
 
 PATH = 'content'
 TIMEZONE = 'Europe/Lisbon'
@@ -19,18 +23,14 @@ TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
-LINKS = (
-    ('Personal website', 'https://www.brunojnguerreiro.eu/'),
-    ('Publications', 'https://www.brunojnguerreiro.eu/publications'),
-    ('NOVA FCT', 'https://www.fct.unl.pt/'),
-    ('ISR Lisboa', 'https://welcome.isr.tecnico.ulisboa.pt/'),
-)
 
+# Peli-Kiera shows these as Font Awesome 5 brand icons: the first value
+# must be an icon name (github, orcid, linkedin, researchgate, ...)
 SOCIAL = (
-    ('GitHub', 'https://github.com/brunojnguerreiro'),
-    ('ORCID', 'https://orcid.org/0000-0002-4511-5114'),
-    ('Google Scholar', 'https://scholar.google.pt/citations?user=TdFhrtAAAAAJ'),
-    ('LinkedIn', 'https://www.linkedin.com/in/brunojnguerreiro'),
+    ('github', 'https://github.com/brunojnguerreiro'),
+    ('orcid', 'https://orcid.org/0000-0002-4511-5114'),
+    ('researchgate', 'https://www.researchgate.net/profile/Bruno_Guerreiro/'),
+    ('linkedin', 'https://www.linkedin.com/in/brunojnguerreiro'),
 )
 
 DEFAULT_PAGINATION = 10
