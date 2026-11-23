@@ -15,6 +15,8 @@ other institutions, from the most recent to the oldest.
 
 ### [crazynova2](https://github.com/cybaer-nova/crazynova2)
 
+<img src="{static}/images/code/crazynova2.jpg" alt="Crazyflie nano-quadcopter with a motion-capture marker" class="float-image-right">
+
 *2024 · CybAer lab · Python (ROS 2)*
 
 Flight software for the Crazyflie nano-quadcopters in the NOVA FCT arena, based
@@ -28,6 +30,8 @@ hovering.
 
 ### [crazys-uavs](https://github.com/cybaer-nova/crazys-uavs)
 
+<img src="{static}/images/code/crazys-uavs.jpg" alt="Crazyflie hovering in the CrazyS Gazebo simulation" class="float-image-right">
+
 *2024 · CybAer lab · C++ (ROS/Gazebo)*
 
 Simulation environment for the Unmanned Aerial Vehicles course at NOVA FCT,
@@ -40,7 +44,7 @@ with date-stamped log files.
 
 ### [M690B-Wiki](https://github.com/hardtekpt/M690B-Wiki)
 
-<img src="{static}/images/code/m690b-wiki.jpg" alt="M690B drone in outdoor flight" class="float-image-right">
+<img src="{static}/images/code/m690b-wiki.jpg" alt="M690B drone flying against a blue sky" class="float-image-right">
 
 *2023 · CybAer lab · documentation* · [Wiki](https://hardtekpt.github.io/M690B-Wiki/)
 
