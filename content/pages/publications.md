@@ -35,6 +35,18 @@ Automatic Control and Soft Computing (CONTROLO)*, 2026.
 
 <div style="clear:both"></div>
 
+### Automatic Grasping System and Hybrid Controller Towards Multi-Drone Parcel Delivery
+
+<a href="https://www.mdpi.com/article/10.3390/s26020653/s1"><img src="{static}/images/pubs/sensors2026-gripper.jpg" alt="Drone gripper grasping a parcel with fiducial markers" class="float-image-right"></a>
+
+B. J. Guerreiro, F. Azevedo, P. Oliveira, R. Cunha. *Sensors*, 26(2), 653,
+2026.
+
+[DOI](https://doi.org/10.3390/s26020653) ·
+[Video (supplementary material)](https://www.mdpi.com/article/10.3390/s26020653/s1)
+
+<div style="clear:both"></div>
+
 ### Planning Aggressive Drone Manoeuvres: A Geometric Backwards Integration Approach
 
 <a href="https://youtu.be/azqqJ64ueuo"><img src="{static}/images/pubs/azqqJ64ueuo.jpg" alt="Video: planning aggressive drone manoeuvres" class="float-image-right"></a>
