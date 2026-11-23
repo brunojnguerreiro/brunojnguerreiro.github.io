@@ -28,6 +28,23 @@ with date-stamped log files.
 
 <div style="clear:both"></div>
 
+### M690B-Wiki
+
+<img src="{static}/images/code/m690b-wiki.jpg" alt="M690B drone in outdoor flight" class="float-image-right">
+
+*2023 · CybAer lab · documentation*
+
+Documentation for preparing, testing and conducting indoor and outdoor missions
+with the M690B drone: vehicle setup, known issues, mission logs and roadmap. I
+contributed the flight mission logs, including those of the in-flight capture
+manoeuvres with MPC from the [CAPTURE](http://capture.isr.tecnico.ulisboa.pt/)
+project.
+
+[Repository](https://github.com/hardtekpt/M690B-Wiki) ·
+[Wiki](https://hardtekpt.github.io/M690B-Wiki/)
+
+<div style="clear:both"></div>
+
 ### dc-motor-control
 
 <img src="{static}/images/code/dc-motor-control.jpg" alt="Arduino-based DC motor position control setup with encoder and motor driver" class="float-image-right">
