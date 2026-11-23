@@ -16,8 +16,7 @@ Superior Técnico (IST), Lisbon, in 2013.
 
 ## Research interests
 
-My work addresses the theoretical, practical and technological challenges of
-aerospace robotics for civilian applications, in particular:
+My work addresses the theoretical, practical and technological challenges of aerospace robotics for civilian applications, in particular:
 
 - trajectory planning and tracking for multiple drones
 - model predictive control (MPC), linear and nonlinear control
@@ -39,7 +38,7 @@ aerospace robotics for civilian applications, in particular:
 - **SAVEMOB** (FDCT Macau, 2015–2016): sensor-based control of aerial vehicles
   for monitoring industrial facilities.
 
-More on my [personal website](https://www.brunojnguerreiro.eu/research).
+More on the [Research]({filename}research.md) page.
 
 ## Contact
 

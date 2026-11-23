@@ -1,216 +1,95 @@
 Title: Publications
 Sort-Order: 3
 
-The full list, with preprints and BibTeX, is on my
-[personal website](https://www.brunojnguerreiro.eu/publications). See also
-[ORCID](https://orcid.org/0000-0002-4511-5114) and
+Full list of publications, from the most recent to the oldest. Publications
+with code, data or video are also highlighted on the [Code]({filename}code.md)
+page. See also [ORCID](https://orcid.org/0000-0002-4511-5114) and
 [Google Scholar](https://scholar.google.pt/citations?user=TdFhrtAAAAAJ).
 
-## Selected publications
-
-1. G. Serrano, B. J. Guerreiro, P. Lourenço, R. Cunha. Equivariant Filter for Relative Attitude and Target Angular Velocity Estimation. *IEEE TAES*, 2025. [doi](https://doi.org/10.1109/TAES.2025.3643413)
-2. J. Pinto, B. J. Guerreiro, R. Cunha. Planning Aggressive Drone Manoeuvres: A Geometric Backwards Integration Approach. *JIRS*, 111(16), 2025. [doi](https://doi.org/10.1007/s10846-024-02214-z)
-3. G. Serrano, M. Jacinto, J. Ribeiro-Gomes, J. Pinto, B. J. Guerreiro, A. Bernardino, R. Cunha. Physics-Informed Neural Network for Multirotor Slung Load Systems Modeling. *ICRA*, 2024. [doi](https://doi.org/10.1109/ICRA57147.2024.10610582)
-4. D. Oliveira, B. J. Guerreiro. In-flight Capture Maneuver of Drones Using Model Predictive Control. *ICUAS*, 2024. [doi](https://doi.org/10.1109/ICUAS60882.2024.10556947)
-5. P. Pereira, B. J. Guerreiro, P. Lourenço. Distributed MPC Method for Spacecraft Formation Flying in a Leader-Follower Formation. *IEEE TAES*, 2022. [doi](https://doi.org/10.1109/TAES.2022.3224692)
-6. B. J. Guerreiro, C. Silvestre, R. Cunha, D. Cabecinhas. LiDAR-based Control of Autonomous Rotorcraft for the Inspection of Pier-like Structures. *IEEE TCST*, 2018. [doi](https://doi.org/10.1109/TCST.2017.2705058)
-7. B. J. Guerreiro, C. Silvestre, R. Cunha, A. Pascoal. Trajectory Tracking NMPC for Autonomous Surface Craft. *IEEE TCST*, 2014. [doi](https://doi.org/10.1109/TCST.2014.2303805)
-8. B. J. Guerreiro, P. Batista, C. Silvestre, P. Oliveira. Globally Asymptotically Stable Sensor-based SLAM. *IEEE Trans. on Robotics*, 29(6), 2013. [doi](https://doi.org/10.1109/TRO.2013.2273838)
-
-## Publications with code, data or video
-
-Publications that provide a repository or a video, from the most recent to
-the oldest.
-
-### Hierarchical Nonlinear Control for Swarm Encirclement Around a Moving Target UAV
-
-<img src="{static}/images/pubs/controlo2026-encirclement.jpg" alt="Simulation: 31 drones distributed on a sphere encircling a moving target" class="float-image-right">
-
-F. Cavalheiro, B. J. Guerreiro. *17th APCA International Conference on
-Automatic Control and Soft Computing (CONTROLO)*, 2026.
-
-[DOI](https://doi.org/10.1109/CONTROLO67943.2026.11771846) ·
-[arXiv](https://arxiv.org/abs/2611.12684) ·
-[Code](https://github.com/Filipe-Cavalheiro/Hierarchical-Nonlinear-Control-for-Swarm-Encirclement-Around-a-Moving-Target-UAV)
-
-<div style="clear:both"></div>
-
-### Automatic Grasping System and Hybrid Controller Towards Multi-Drone Parcel Delivery
-
-<a href="https://youtu.be/U8o-LAxbCNI"><img src="{static}/images/pubs/sensors2026-gripper.jpg" alt="Drone gripper grasping a parcel with fiducial markers" class="float-image-right"></a>
-
-B. J. Guerreiro, F. Azevedo, P. Oliveira, R. Cunha. *Sensors*, 26(2), 653,
-2026.
-
-[DOI](https://doi.org/10.3390/s26020653) ·
-[Video](https://youtu.be/U8o-LAxbCNI)
-
-<div style="clear:both"></div>
-
-### Planning Aggressive Drone Manoeuvres: A Geometric Backwards Integration Approach
-
-<a href="https://youtu.be/azqqJ64ueuo"><img src="{static}/images/pubs/azqqJ64ueuo.jpg" alt="Video: planning aggressive drone manoeuvres" class="float-image-right"></a>
-
-J. Pinto, B. J. Guerreiro, R. Cunha. *Journal of Intelligent & Robotic
-Systems*, 111(1), 16, 2025.
-
-[DOI](https://doi.org/10.1007/s10846-024-02214-z) ·
-[Code](https://github.com/dsor-isr/Quad_Ctrl_MAVROS) ·
-[Video](https://youtu.be/azqqJ64ueuo)
-
-<div style="clear:both"></div>
-
-### Fixed-Wing UAV Simulation in PX4 and Gazebo: An AVL-Based Approach
-
-<img src="{static}/images/pubs/yefece2025-easyglider.jpg" alt="CAD model of the EasyGlider fixed-wing UAV with the on-board electronics" class="float-image-right">
-
-F. Cavalheiro, B. J. Guerreiro. *9th International Young Engineers Forum on
-Electrical and Computer Engineering (YEF-ECE)*, pp. 80–85, 2025.
-
-[DOI](https://doi.org/10.1109/YEF-ECE66503.2025.11117433) ·
-Code: [PX4-gazebo-models #79](https://github.com/PX4/PX4-gazebo-models/pull/79),
-[PX4-Autopilot #24373](https://github.com/PX4/PX4-Autopilot/pull/24373),
-[#24374](https://github.com/PX4/PX4-Autopilot/pull/24374) ·
-[Flight test video](https://youtu.be/vL8qdegYdg8)
-
-<div style="clear:both"></div>
-
-### Physics-Informed Neural Network for Multirotor Slung Load Systems Modeling
-
-<a href="https://youtu.be/4N_nnaGsUOg"><img src="{static}/images/pubs/4N_nnaGsUOg.jpg" alt="Video: physics-informed neural network for slung load modelling" class="float-image-right"></a>
-
-G. Serrano, M. Jacinto, J. Ribeiro-Gomes, J. Pinto, B. J. Guerreiro,
-A. Bernardino, R. Cunha. *IEEE International Conference on Robotics and
-Automation (ICRA)*, pp. 12592–12598, 2024.
-
-[DOI](https://doi.org/10.1109/ICRA57147.2024.10610582) ·
-[Code and dataset](https://github.com/GilSerrano/pinn-air) ·
-[Video](https://youtu.be/4N_nnaGsUOg)
-
-<div style="clear:both"></div>
-
-### In-flight Capture Maneuver of Drones Using Model Predictive Control
-
-<a href="https://youtu.be/Nqarkz9U30Y"><img src="{static}/images/pubs/Nqarkz9U30Y.jpg" alt="Video: in-flight drone capture manoeuvre using MPC with a simulated target" class="float-image-right"></a>
-
-D. Oliveira, B. J. Guerreiro. *International Conference on Unmanned Aircraft
-Systems (ICUAS)*, pp. 771–778, 2024.
-
-[DOI](https://doi.org/10.1109/ICUAS60882.2024.10556947) ·
-[Video](https://youtu.be/Nqarkz9U30Y)
-
-<div style="clear:both"></div>
-
-### Event-Triggered Multi-Mode MPC with Application to Modular Aerial Vehicles
-
-<img src="{static}/images/pubs/acc2023-docking.jpg" alt="Simulated docking manoeuvre of two multirotor vehicles" class="float-image-right">
-
-P. Casau, B. J. Guerreiro. *American Control Conference (ACC)*,
-pp. 1209–1214, 2023.
-
-[DOI](https://doi.org/10.23919/ACC55779.2023.10155794) ·
-[Simulation code](https://github.com/pcasau/ACC2023)
-
-<div style="clear:both"></div>
-
-### Earth-based Simultaneous Localization and Mapping for Drones in Dynamic Environments
-
-<img src="{static}/images/code/replace-dataset1.png" alt="Sample plots from the SLAMMOT dataset: RGB image, depth point cloud and trajectory" class="float-image-right">
-
-M. Simas, B. J. Guerreiro, P. Batista. *Journal of Intelligent & Robotic
-Systems*, 104(4), 58, 2022.
-
-[DOI](https://doi.org/10.1007/s10846-022-01578-4) ·
-[Dataset and code](https://github.com/brunojnguerreiro/replace-dataset1)
-
-<div style="clear:both"></div>
-
-### A Multiple-UAV Architecture for Autonomous Media Production
-
-<a href="https://youtu.be/nRM-TJ2njtg"><img src="{static}/images/pubs/nRM-TJ2njtg.jpg" alt="Video: MULTIDRONE shooting mission with multiple drones" class="float-image-right"></a>
-
-I. Mademlis, A. Torres-González, J. Capitán, M. Montagnuolo, A. Messina,
-F. Negro, C. Le Barz, T. Gonçalves, R. Cunha, B. Guerreiro, F. Zhang, S. Boyle,
-G. Guerout, A. Tefas, N. Nikolaidis, D. Bull, I. Pitas. *Multimedia Tools and
-Applications*, 82(2), pp. 1905–1934, 2022.
-
-[DOI](https://doi.org/10.1007/s11042-022-13319-8) ·
-Videos: [parkour mock-up](https://youtu.be/P_n_PfuEC2A) ·
-[shooting mission](https://youtu.be/nRM-TJ2njtg) ·
-[MultiDrone feature](https://www.youtube.com/watch?v=iLs6Xo87j78)
-
-<div style="clear:both"></div>
-
-### Planning Parcel Relay Manoeuvres for Quadrotors
-
-<a href="https://youtu.be/0xPtaoa6kfY"><img src="{static}/images/pubs/0xPtaoa6kfY.jpg" alt="Video: planning parcel relay manoeuvres for quadrotors" class="float-image-right"></a>
-
-J. Pinto, B. J. Guerreiro, R. Cunha. *International Conference on Unmanned
-Aircraft Systems (ICUAS)*, pp. 137–145, 2021.
-
-[DOI](https://doi.org/10.1109/ICUAS51884.2021.9476757) ·
-[Video](https://youtu.be/0xPtaoa6kfY)
-
-<div style="clear:both"></div>
-
-### NOVA.DroneArena: Design and Control of a Low-cost Drone Testbed
-
-<a href="https://youtu.be/lrrOZvvSejY"><img src="{static}/images/pubs/lrrOZvvSejY.jpg" alt="Video: NOVA.DroneArena first experimental trial" class="float-image-right"></a>
-
-H. Cabrita, B. J. Guerreiro. *International Young Engineers Forum (YEF-ECE)*,
-pp. 20–25, 2021.
-
-[DOI](https://doi.org/10.1109/YEF-ECE52297.2021.9505090) ·
-[Code](https://github.com/brunojnguerreiro/nova-drone-arena) ·
-[Video](https://youtu.be/lrrOZvvSejY)
-
-<div style="clear:both"></div>
-
-### Earth-fixed Trajectory and Map Online Estimation: Building on GES Sensor-based SLAM Filters
-
-<a href="https://youtu.be/d2dtR56eA9g"><img src="{static}/images/pubs/d2dtR56eA9g.jpg" alt="Video: Earth-fixed trajectory and map online estimation" class="float-image-right"></a>
-
-P. Lourenço, B. J. Guerreiro, P. Batista, P. Oliveira, C. Silvestre.
-*Robotics and Autonomous Systems*, 130, 103552, 2020.
-
-[DOI](https://doi.org/10.1016/j.robot.2020.103552) ·
-[Video](https://youtu.be/d2dtR56eA9g)
-
-<div style="clear:both"></div>
-
-### Trajectory Planning and Control for Drone Replacement for Multidrone Cinematography
-
-<a href="https://youtu.be/HDlCM5obl0M"><img src="{static}/images/pubs/HDlCM5obl0M.jpg" alt="Video: Gazebo simulation of drone replacement during a multidrone shooting mission" class="float-image-right"></a>
-
-M. Marques, B. J. Guerreiro, R. Cunha, C. Silvestre. *IFAC-PapersOnLine*
-(21st IFAC Symposium on Automatic Control in Aerospace), 52(12), pp. 334–339,
-2019.
-
-[DOI](https://doi.org/10.1016/j.ifacol.2019.11.265) ·
-[Video](https://youtu.be/HDlCM5obl0M)
-
-<div style="clear:both"></div>
-
-### LiDAR-based Control of Autonomous Rotorcraft for the Inspection of Pier-like Structures
-
-<a href="https://youtu.be/phjW7tHwNCQ"><img src="{static}/images/pubs/phjW7tHwNCQ.jpg" alt="Video: LiDAR-based control for pier inspection" class="float-image-right"></a>
-
-B. J. Guerreiro, C. Silvestre, R. Cunha, D. Cabecinhas. *IEEE Transactions on
-Control Systems Technology*, 26(4), pp. 1430–1438, 2018.
-
-[DOI](https://doi.org/10.1109/TCST.2017.2705058) ·
-[Video](https://youtu.be/phjW7tHwNCQ)
-
-<div style="clear:both"></div>
-
-### Globally Asymptotically Stable Sensor-based Simultaneous Localization and Mapping
-
-<a href="https://youtu.be/sFsEZVBpM6I"><img src="{static}/images/pubs/sFsEZVBpM6I.jpg" alt="Video: globally asymptotically stable sensor-based SLAM" class="float-image-right"></a>
-
-B. J. Guerreiro, P. Batista, C. Silvestre, P. Oliveira. *IEEE Transactions on
-Robotics*, 29(6), pp. 1380–1395, 2013.
-
-[DOI](https://doi.org/10.1109/TRO.2013.2273838) ·
-[Video](https://youtu.be/sFsEZVBpM6I)
-
-<div style="clear:both"></div>
+## Metrics
+
+| Source (January 2026) | Documents | Citations | h-index |
+|---|---:|---:|---:|
+| [Web of Science](https://www.webofscience.com/wos/author/record/C-1257-2008) | 37 | 344 | 10 |
+| [Scopus](https://www.scopus.com/authid/detail.uri?authorId=24780644000) | 50 | 479 | 12 |
+| [Google Scholar](https://scholar.google.pt/citations?user=TdFhrtAAAAAJ) | 63 | 673 | 14 |
+
+## Journal articles
+
+1. G. Serrano, B. J. Guerreiro, P. Lourenço, R. Cunha. An Equivariant Filter for Spacecraft Nonlinear Relative Navigation with Range and Bearing Measurements, IEEE L-CSS, 2026. (accepted)
+1. B. Guerreiro, F. Azevedo, P. Oliveira, R. Cunha. Automatic Grasping System and Hybrid Controller Towards Multi-Drone Parcel Delivery. Sensors, 26(2), 653, 2026. [DOI](https://doi.org/10.3390/s26020653)
+1. G. Serrano, B. J. Guerreiro, P. Lourenço, R. Cunha. Equivariant Filter for Relative Attitude and Target Angular Velocity Estimation, IEEE Transactions on Aerospace and Electronic Systems, 2025. [DOI](https://doi.org/10.1109/TAES.2025.3643413)
+1. J. Pinto, B. J. Guerreiro, R. Cunha. Planning Aggressive Drone Manoeuvres: A Geometric Backwards Integration Approach, Journal of Intelligent & Robotic Systems, Springer, 111(16), 2025. [DOI](https://doi.org/10.1007/s10846-024-02214-z)
+1. J. G. Araújo; L. B. Oliveira; B. J. Guerreiro; F. F. Silva, CMOS analog simulators of dynamical systems, IEEE Access, (12):57424-57442, 2024. [DOI](https://doi.org/10.1109/ACCESS.2024.3391511)
+1. P. Pereira, B. J. Guerreiro, P. Lourenço. Distributed Model Predictive Control Method for Spacecraft Formation Flying in a Leader-Follower Formation. IEEE Transactions on Aerospace and Electronic Systems, 59(3):3213-3223, 2023. [DOI](https://doi.org/10.1109/TAES.2022.3224692)
+1. I. Mademlis, A. Torres-González, J. Capitán, M. Montagnuolo, A. Messina, F. Negro, C. Le Barz, T. Gonçalves, R. Cunha, B. Guerreiro, F. Zhang, S. Boyle, G. Guerout, A. Tefas, N. Nikolaidis, D. Bull and I. Pitas. A multiple-UAV architecture for autonomous media production. Multimedia Tools and Applications, 2022. [DOI](https://doi.org/10.1007/s11042-022-13319-8)
+1. M. Simas, B. J. Guerreiro, P. Batista. Earth-based Simultaneous Localization and Mapping for Drones in Dynamic Environments, Journal of Intelligent & Robotic Systems, 104:58, 2022. [DOI](https://doi.org/10.1007/s10846-022-01578-4)
+1. P. Lourenço, B. J. Guerreiro, P. Batista, P. Oliveira, C. Silvestre. Earth-fixed Trajectory and Map online estimation: building on GES sensor-based SLAM filters, Robotics and Autonomous Systems, 130:103552, August, 2020. [DOI](https://doi.org/10.1016/j.robot.2020.103552) [Post-print](https://web.tecnico.ulisboa.pt/ist147939/papers/2020_RAS_ETM_Applications_postprint.pdf) [BIB](https://web.tecnico.ulisboa.pt/ist147939/papers/2020_RAS_ETM_Applications.bib) [Video](https://youtu.be/d2dtR56eA9g)
+1. B. J. Guerreiro, C. Silvestre, R. Cunha, and D. Cabecinhas, Lidar-based control of autonomous rotorcraft for the inspection of pier-like structures, IEEE Transactions in Control Systems Technology, 26(4), pp. 1430-1438, 2018. [DOI](https://doi.org/10.1109/TCST.2017.2705058) [Preprint](https://web.tecnico.ulisboa.pt/ist147939/publications/2017_TCST_LidarControlHeli_preprint.pdf) [BIB](https://web.tecnico.ulisboa.pt/ist147939/publications/2017_TCST_LidarControlHeli.bib) [Video](https://youtu.be/phjW7tHwNCQ)
+1. P. Lourenço, B. J. Guerreiro, P. Batista, P. Oliveira, C. Silvestre. Uncertainty Characterization of the Orthogonal Procrustes Problem with Arbitrary Covariance Matrices, Pattern Recognition, 61, pp. 210-220, 2017. [DOI](https://doi.org/10.1016/j.patcog.2016.07.037)
+1. P. Lourenço, B. J. Guerreiro, P. Batista, P. Oliveira, C. Silvestre. Simultaneous Localization and Mapping for Aerial Vehicles: a 3-D sensor-based GAS filter, Autonomous Robots, Springer, 40(5), pp. 881-902, 2016. [DOI](https://doi.org/10.1007/s10514-015-9499-z)
+1. B. J. Guerreiro, C. Silvestre, P. Oliveira. Automatic 2-D LiDAR Geometric Calibration of Installation Bias, Robotics and Autonomous Systems, Elsevier, 62, pp. 1116-1129, 2014. [DOI](https://doi.org/10.1016/j.robot.2014.05.001)
+1. B. J. Guerreiro, C. Silvestre, R. Cunha, A. Pascoal. Trajectory Tracking Nonlinear Model Predictive Control for Autonomous Surface Craft, IEEE Transactions on Control Systems Technology, 22(6), pp. 2160-2175, 2014. [DOI](https://doi.org/10.1109/TCST.2014.2303805)
+1. B. J. Guerreiro, P. Batista, C. Silvestre, P. Oliveira. Globally asymptotically stable sensor-based simultaneous localization and mapping, IEEE Transactions on Robotics, 29(6), pp. 1380-1395, 2013. [DOI](https://doi.org/10.1109/TRO.2013.2273838) [Video](https://youtu.be/sFsEZVBpM6I)
+1. B. J. Guerreiro, C. Silvestre, and R. Cunha, Terrain avoidance model predictive control for autonomous rotorcraft,” Journal of Intelligent & Robotic Systems, 69(1), p. 69-85, 2012. [DOI](https://doi.org/10.1007/s10846-012-9669-6)
+1. J. F. Vasconcelos, C. Silvestre, P. Oliveira, B. Guerreiro. Embedded UAV model and LASER aiding techniques for inertial navigation systems, in Control Engineering and Practice, 18 (3), p. 262-278, March 2010. [DOI](https://doi.org/10.1016/j.conengprac.2009.11.004)
+
+## Book chapters
+
+1. P. Lourenço, B. J. Guerreiro, P. Batista, P. Oliveira, C. Silvestre. “New Design Techniques for Globally Convergent Simultaneous Localization and Mapping: Analysis and Implementation.” In Sensing and Control for Autonomous Vehicles: Applications to Land, Water and Air Vehicles, editors T. I. Fossen, K. Y. Pettersen, H. Nijmeijer, Springer, pp. 121-141, 2017. [DOI](https://doi.org/10.1007/978-3-319-55372-6_6)
+
+## Conference papers
+
+1. F. Cavalheiro and B. J. Guerreiro. “Hierarchical Nonlinear Control for Swarm Encirclement Around a Moving Target UAV.” In 17th APCA International Conference on Automatic Control and Soft Computing (CONTROLO 2026), 2026. [DOI](https://doi.org/10.1109/CONTROLO67943.2026.11771846)
+1. G. Serrano, M. Jacinto, B. J. Guerreiro, R. Cunha, “Equivariant observer for bearing estimation with linear and angular velocity inputs.” In 2026 European Control Conference (ECC), 2026. [URL](https://ieeexplore.ieee.org/abstract/document/11625464)
+1. G. Serrano, P. Lourenço, B. J. Guerreiro, R. Cunha, “Equivariant Filter Cascade for Relative Attitude, Target’s Angular Velocity, and Gyroscope Bias Estimation.” In 2026 European Control Conference (ECC), 2026. [URL](https://ieeexplore.ieee.org/abstract/document/11625624)
+1. J. Ferreira and B. J. Guerreiro, “Deep learning architecture for drone pose classification towards capture maneuvers.” In 8th Iberian Robotics Conference, 2025. [DOI](https://doi.org/10.1007/978-3-032-30156-7_55)
+1. A. S. Costa, B. J. Guerreiro, “Shuttle drone control with airflow disturbance compensation for cooperative target capture.” In 10th CEAS Aerospace Europe Conference (CEAS/AIDAA), 2025. [DOI](https://doi.org/10.21741/9781644904251-135)
+1. F. Cavalheiro and B. J. Guerreiro. “Fixed-Wing UAV Simulation in PX4 and Gazebo: An AVL-Based Approach.” In International Young Engineers Forum (YEF-ECE), 2025. [DOI](https://doi.org/10.1109/YEF-ECE66503.2025.11117433)
+1. João C. G. Araújo, B. J. Guerreiro, L. B. Oliveira, and F. F. Silva. “Nonlinear Model Predictive Control for Optimal Dose Administration in Radiotherapy.” In Doctoral Conference on Computing, Electrical and Industrial Systems, pp. 164-177. 2024. [DOI](https://doi.org/10.1007/978-3-031-63851-0_11)
+1. D. Oliveira and B. J. Guerreiro, “In-flight Capture Maneuver of Drones Using Model Predictive Control,” 2024 International Conference on Unmanned Aircraft Systems (ICUAS), pp. 771-778, 2024, [DOI](https://doi.org/10.1109/ICUAS60882.2024.10556947)
+1. Gil Serrano, Marcelo Jacinto, José Ribeiro-Gomes, João Pinto, Bruno J. Guerreiro, Alexandre Bernardino, and Rita Cunha. Physics-Informed Neural Network for Multirotor Slung Load Systems Modeling, 2024 IEEE International Conference on Robotics and Automation (ICRA), 2024. [DOI](https://doi.org/10.1109/ICRA57147.2024.10610582)
+1. Daniel Sousa and Bruno Guerreiro, Moving Horizon Estimation SLAM for agile vehicles in 3-D environments, Sixth Iberian Robotics Conference (ROBOT), Springer, pp:38:49, 2023. [DOI](https://doi.org/10.1007/978-3-031-59167-9_4) [Post-print](https://web.tecnico.ulisboa.pt/ist147939/publications/2023_ROBOT_MHE-SLAM-3D_postprint.pdf)
+1. Simão Caeiro, Bruno Guerreiro, Rita Cunha, Data-Driven Control Strategies for Rotary Wing Aerial Vehicles, Sixth Iberian Robotics Conference (ROBOT), pp. 62-73, 2023. [DOI](https://doi.org/10.1007/978-3-031-59167-9_6) [Post-print](https://web.tecnico.ulisboa.pt/ist147939/publications/2023_ROBOT_DataMPC_postprint.pdf)
+1. Patrícia Rodrigues and Bruno Guerreiro, Non-Cooperative Model Predictive Control for Capturing a Remotely Piloted Target Drone, Sixth Iberian Robotics Conference (ROBOT), pp. 74–85, 2023. [DOI](https://doi.org/10.1007/978-3-031-59167-9_7) [Post-print](https://web.tecnico.ulisboa.pt/ist147939/publications/2023_ROBOT_NonCoop_postprint.pdf)
+1. João Carvalho, Bruno J. Guerreiro, Instrumentation and control of a target fixed-wing drone for launch and capture, International Young Engineers Forum (YEF-ECE), 2023. [DOI](https://doi.org/10.1109/YEF-ECE58420.2023.10209329) [Post-print](https://web.tecnico.ulisboa.pt/ist147939/publications/2023_YEF-ECE_InstrumControlTargetDrone_copyright.pdf)
+1. Pedro Casau, and B. J. Guerreiro. Event-Triggered Multi-Mode MPC with Application to Modular Aerial Vehicles. IEEE American Control Conference, 2023. [DOI](https://doi.org/10.23919/ACC55779.2023.10155794) [Post-print](https://web.tecnico.ulisboa.pt/ist147939/publications/2023_ACC_EventTriggeredMPC_Postprint.pdf)
+1. Fábio Luz, Bruno J. Guerreiro, and Manuel Marques, Model predictive control for assistive robotics manipulation, CONTROLO 2022, Springer, pp:83-94, 2022. [DOI](https://doi.org/10.1007/978-3-031-10047-5_8)
+1. Gil Serrano, Bruno Guerreiro, and Rita Cunha, Nonlinear Control of Hybrid Drones via Optimised Control Allocation, CONTROLO 2022, Springer, pp:214-226, 2022. [DOI](https://doi.org/10.1007/978-3-031-10047-5_19)
+1. Tomás Bastos, Bruno J. Guerreiro, and Rita Cunha, Task Allocation Algorithms for Drone Parcel Delivery Systems, CONTROLO 2022, Springer, pp:644-655, 2022. [DOI](https://doi.org/10.1007/978-3-031-10047-5_57)
+1. Pedro Pereira, Bruno Guerreiro, Pedro Lourenço, “Cooperative Platooning and Servicing for Spacecraft Formation Flying using Model Predictive Control”, Euro GNC, 2022. [Post-print](https://web.tecnico.ulisboa.pt/ist147939/publications/2022_EuroGNC_SpacecraftServicing_postprint.pdf) [DOI](https://doi.org/10.5281/zenodo.7106140)
+1. Francisco Matos and Bruno Guerreiro, “Model predictive control strategies for parcel relay manoeuvres using drones,” 2021 International Young Engineers Forum (YEF-ECE), 2021, pp. 32-37. [DOI](https://doi.org/10.1109/YEF-ECE52297.2021.9505115)
+1. Hugo Cabrita and Bruno Guerreiro, “NOVA.DroneArena: design and control of a low-cost drone testbed,” 2021 International Young Engineers Forum (YEF-ECE), 2021, pp. 20-25. [DOI](https://doi.org/10.1109/YEF-ECE52297.2021.9505090)
+1. Bruno Neves and Bruno Guerreiro, “Flight control of hybrid drones towards enabling parcel relay manoeuvres,” 2021 International Young Engineers Forum (YEF-ECE), 2021, pp. 13-19. [DOI](https://doi.org/10.1109/YEF-ECE52297.2021.9505161)
+1. João Pinto, Bruno J. Guerreiro and Rita Cunha, “Planning Parcel Relay Manoeuvres for Quadrotors,” 2021 International Conference on Unmanned Aircraft Systems (ICUAS), 2021, pp. 137-145. [DOI](https://doi.org/10.1109/ICUAS51884.2021.9476757)
+1. Manuel Simas, Bruno J. Guerreiro, and Pedro Batista. “Preliminary Results on 2-D Simultaneous Localization and Mapping for Aerial Robots in Dynamics Environments.” In 2019 7th International Conference on Robot Intelligence Technology and Applications (RiTA), pp. 180-185. IEEE, 2019. [DOI](https://doi.org/10.1109/RITAPP.2019.8932884)
+1. Ioannis Mademlis, Arturo Torres-González, Jesús Capitán, Rita Cunha, Bruno Guerreiro, Alberto Messina, Fulvio Negro, Cedric Le Barz, Tiago Gonçalves, Anastasios Tefas. “A Multiple-UAV Software Architecture for Autonomous Media Production.” In Workshop on Signal Processing Computer vision and Deep Learning for Autonomous Systems, EUSIPCO2019, September 2019. [URL](https://www.eurasip.org/Proceedings/Eusipco/eusipco2019/wp-content/uploads/2019/08/A_Multiple-UAV_Software_Architecture_for_Autonomous_Media_Production.pdf)
+1. Rita Cunha, Miguel Malaca, Vasco Sampaio, Bruno Guerreiro, Paraskevi Nousi, Ioannis Mademlis, Anastasios Tefas, and Ioannis Pitas. “Gimbal Control for Vision-based Target Tracking.” In Workshop on Signal Processing Computer vision and Deep Learning for Autonomous Systems, EUSIPCO2019, September 2019. [URL](https://www.eurasip.org/Proceedings/Eusipco/eusipco2019/wp-content/uploads/2019/08/Gimbal_Control_for_Vision-based_Target_Tracking.pdf)
+1. Arturo Torres-González, Alfonso Alcántara, Vasco Sampaio, Jesús Capitán, Bruno Guerreiro, Rita Cunha, and Anibal Ollero. “Distributed Mission Execution for Aerial Cinematography with Multiple Drones.” In Workshop on Signal Processing Computer vision and Deep Learning for Autonomous Systems, EUSIPCO2019, September 2019. [URL](https://www.eurasip.org/Proceedings/Eusipco/eusipco2019/wp-content/uploads/2019/08/Distributed_Mission_Execution_for_Aerial_Cinematography_with_Multiple_Drones.pdf)
+1. Marta Marques, Bruno J. Guerreiro, Rita Cunha, and Carlos Silvestre. “Trajectory planning and control for drone replacement for multidrone cinematography.” 21st IFAC Symposium on Automatic Control in Aerospace (ACA 2019), IFAC-PapersOnLine 52, no. 12 (2019): 334-339. [DOI](https://doi.org/10.1016/j.ifacol.2019.11.265)
+1. P. Bai, B. J. Guerreiro, R. Cunha, P. Kornatowski, D. Floreano, C. Silvestre, Wall-contact sliding control strategy for a 2D caged quadrotor, 18th ICCAS, October, pp. 291-296, 2018. [IEEEXplore](https://ieeexplore.ieee.org/abstract/document/8571703)
+1. A. Gomes, B. J. Guerreiro, R. Cunha, C. Silvestre, P. Oliveira, Sensor-based 3-D Pose Estimation and Control of Rotary-wing UAVs using a 2-D LiDAR, In Robot 2017: Third Iberian Robotics Conference, Springer, 2018. [DOI](https://doi.org/10.1007/978-3-319-70833-1_58) [Preprint](https://web.tecnico.ulisboa.pt/ist147939/publications/2017_Robot2017_preprint.pdf)
+1. B. J. Guerreiro, C. Silvestre, and R. Cunha. “LiDAR-Based Control of Autonomous Rotorcraft for Inspection of Pole-Shaped Structures.” In Robot 2015: Second Iberian Robotics Conference, Springer, pp. 609-621, 2016. [DOI](https://doi.org/10.1007/978-3-319-27146-0_47)
+1. B. J. Guerreiro, C. Silvestre, R. Cunha, and A. Pascoal. Trajectory Tracking Nonlinear Model Predictive Control for Autonomous Surface Craft., pp. 3006-3011 European Control Conference (ECC), Zurich, Switzerland, July, 2013, pp. 3006-3011. [DOI](https://doi.org/10.23919/ECC.2013.6669482) [Preprint](https://web.tecnico.ulisboa.pt/ist147939/publications/2013_ECC_DelfimNMPC_preprint.pdf)
+1. P. Lourenço, B. J. Guerreiro, P. Batista, C. Silvestre, and P. Oliveira. 3-D Inertial Trajectory and Map Estimation: building on a GAS Sensor-based SLAM algorithm. European Control Conference (ECC), Zurich, Switzerland. July 2013, pp. 4214 -4219. [DOI](https://doi.org/10.23919/ECC.2013.6669679) [Preprint](https://web.tecnico.ulisboa.pt/ist147939/publications/2013_ECC_ITM-SLAM_3D_preprint.pdf)
+1. P. Lourenço, B. J. Guerreiro, P. Batista, C. Silvestre, and P. Oliveira. Preliminary Results on Globally Asymptotically Stable Simultaneous Localization and Mapping in 3-D. American Control Conference (ACC), Washington, DC, USA. June, 2013, pp. 3087-3092. [DOI](https://doi.org/10.1109/ACC.2013.6580305) [Preprint](https://web.tecnico.ulisboa.pt/ist147939/publications/2013_ACC_SLAM-3D_preprint.pdf)
+1. B. J. Guerreiro, P. Batista, C. Silvestre, and P. Oliveira. Sensor-based Simultaneous Localization and Mapping — part I: GAS robocentric filter. American Control Conference (ACC) 2012, pp. 6352-6357, Montreal, Canada. June 2012. [DOI](https://doi.org/10.1109/ACC.2012.6315294) [Preprint](https://web.tecnico.ulisboa.pt/ist147939/publications/2012_ACC_SLAM1_preprint.pdf)
+1. B. J. Guerreiro, P. Batista, C. Silvestre, and P. Oliveira. Sensor-based Simultaneous Localization and Mapping — part II: Online inertial map and trajectory estimation. American Control Conference (ACC) 2012, pp. 6334-6339, Montreal, Canada. June 2012. [DOI](https://doi.org/10.1109/ACC.2012.6315296) [Preprint](https://web.tecnico.ulisboa.pt/ist147939/publications/2012_ACC_SLAM2_preprint.pdf)
+1. B. J. Guerreiro, C. Silvestre, P. Oliveira. Automatic LADAR Calibration Methods using Geometric Optimization, in Proceedings of the 2011 IEEE International Conference on Robotics and Automation, pp. 969-974, May 2011, Shangai, China. [DOI](https://doi.org/10.1109/ICRA.2011.5979729) [Preprint](https://web.tecnico.ulisboa.pt/ist147939/publications/2011_ICRA_AutoLaserCalib_preprint.pdf)
+1. B. J. Guerreiro, C. Silvestre, R. Cunha. Laser-Based Trajectory Tracking H2 Control of Autonomous Rotorcraft, in Proceedings of the 18th IFAC Symposium on Automatic Control in Aerospace, September 2010, Nara, Japan. [DOI](https://doi.org/10.3182/20100906-5-JP-2022.00010) [Preprint](https://web.tecnico.ulisboa.pt/ist147939/publications/2010_ACA_HeliLaser.pdf)
+1. B. J. Guerreiro, C. Silvestre, R. Cunha, A. Pascoal. “Trajectory Tracking Nonlinear Model Predictive Control for Autonomous Surface Craft”, in Proceedings of the European Control Conference, pp. 1311-1316, Budapest, Hungary, August 2009. [Preprint](https://web.tecnico.ulisboa.pt/ist147939/publications/2009_ECC_CataMPC_preprint.pdf)
+1. B. J. Guerreiro, C. Silvestre, R. Cunha, C. Cao, N. Hovakimyan, “L1 Adaptive Control for Autonomous Rotorcraft”, in IEEE American Control Conference, pp. 3250-3255, St. Louis, Missouri, USA, June 2009. [DOI](https://doi.org/10.1109/ACC.2009.5159940) [Preprint](https://web.tecnico.ulisboa.pt/ist147939/publications/2009_ACC_L1Heli_preprint.pdf)
+1. B. J. Guerreiro, C. Silvestre, and R. Cunha, “Terrain avoidance model predictive control for autonomous rotorcraft,” in 17th IFAC World Congress, pp. 1076-1081, Seoul, Korea, July 2008. [DOI](https://doi.org/10.3182/20080706-5-KR-1001.00186) [Preprint](https://web.tecnico.ulisboa.pt/ist147939/publications/2008_IFAC_NMPC_heli_preprint.pdf)
+1. B. J. Guerreiro, C. Silvestre, P. Oliveira and J. F. Vasconcelos, “Nonlinear and Geometric Optimization Methods for LADAR Calibration”, 2008 IEEE International Conference on Robotics and Automation, pp. 1406-1411, Pasadena, CA, USA, May 2008. [DOI](https://doi.org/10.1109/ROBOT.2008.4543399) [Preprint](https://web.tecnico.ulisboa.pt/ist147939/publications/2008_ICRA_LaserCalib_preprint.pdf)
+1. B. J. Guerreiro, C. Silvestre, R. Cunha, and D. Antunes, “Trajectory tracking H2 controller for autonomous helicopters: and application to industrial chimney inspection”, in 17th IFAC Symposium on Automatic Control in Aerospace, Toulouse, France, June 2007. (Best Student Paper Award) [DOI](https://doi.org/10.3182/20070625-5-FR-2916.00074) [Preprint](https://web.tecnico.ulisboa.pt/ist147939/publications/2007_ACA_Heli_preprint.pdf)
+
+## Theses
+
+1. B. J. Guerreiro, Sensor-based Control and Localization of Autonomous Systems in Unknown Environments, Ph. D. Thesis, Instituto Superior Técnico, University of Lisbon, Portugal. 2013. (Best 2013 PhD Thesis Award from the Portuguese Robotics Society) (Unpublished) [PDF](https://web.tecnico.ulisboa.pt/ist147939/phddissertation/PhD_FinalDissertation_BrunoJNGuerreiro_2013.pdf)
+1. B. Guerreiro, D. Nunes. Low Altitude Terrain Following Control Systems for Autonomous Helicopters, Final Project of Licenciatura in Electronic and Computer Science Engineering, Instituto Superior Técnico, Lisbon. October 2004. (in Portuguese)
+
+## Technical reports
+
+1. B. J. Guerreiro, C. Silvestre, R. Cunha, D. Cabecinhas, LiDAR-based control of autonomous rotorcraft for the inspection of pier-like structures: Proofs, 2017. Available online at: [https://arxiv.org/pdf/1705.01332.pdf](https://arxiv.org/pdf/1705.01332.pdf) (Complementary document to the paper published in IEEE TCST, 2017).
+1. B. Guerreiro, R. Cunha, C. Silvestre. Bergen Helicopter Nonlinear Model: Complete and Simplified Expressions, Technical Report, Instituto Superior Técnico, Institute for Systems and Robotics, 2008.
+1. R. Cunha, B. Guerreiro, C. Silvestre. Vario-Xtreme Helicopter Nonlinear Model: Complete and Simplified Expressions, Technical Report, Instituto Superior Técnico, Institute for Systems and Robotics, 2006.

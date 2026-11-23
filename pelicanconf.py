@@ -14,6 +14,7 @@ DEFAULT_LANG = 'en'
 # The "About" page is the homepage; the article list moves to /blog/
 INDEX_SAVE_AS = 'blog/index.html'
 DISPLAY_PAGES_ON_MENU = True
+PAGE_ORDER_BY = 'sort-order'
 DISPLAY_CATEGORIES_ON_MENU = False
 
 # Feed generation is usually not desired when developing
