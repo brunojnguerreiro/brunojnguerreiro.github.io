@@ -89,6 +89,18 @@ Automation (ICRA)*, pp. 12592–12598, 2024.
 
 <div style="clear:both"></div>
 
+### In-flight Capture Maneuver of Drones Using Model Predictive Control
+
+<a href="https://youtu.be/Nqarkz9U30Y"><img src="{static}/images/pubs/Nqarkz9U30Y.jpg" alt="Video: in-flight drone capture manoeuvre using MPC with a simulated target" class="float-image-right"></a>
+
+D. Oliveira, B. J. Guerreiro. *International Conference on Unmanned Aircraft
+Systems (ICUAS)*, pp. 771–778, 2024.
+
+[DOI](https://doi.org/10.1109/ICUAS60882.2024.10556947) ·
+[Video](https://youtu.be/Nqarkz9U30Y)
+
+<div style="clear:both"></div>
+
 ### Event-Triggered Multi-Mode MPC with Application to Modular Aerial Vehicles
 
 <img src="{static}/images/pubs/acc2023-docking.jpg" alt="Simulated docking manoeuvre of two multirotor vehicles" class="float-image-right">
