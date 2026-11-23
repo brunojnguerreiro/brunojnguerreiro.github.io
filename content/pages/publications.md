@@ -178,6 +178,19 @@ P. Lourenço, B. J. Guerreiro, P. Batista, P. Oliveira, C. Silvestre.
 
 <div style="clear:both"></div>
 
+### Trajectory Planning and Control for Drone Replacement for Multidrone Cinematography
+
+<a href="https://youtu.be/HDlCM5obl0M"><img src="{static}/images/pubs/HDlCM5obl0M.jpg" alt="Video: Gazebo simulation of drone replacement during a multidrone shooting mission" class="float-image-right"></a>
+
+M. Marques, B. J. Guerreiro, R. Cunha, C. Silvestre. *IFAC-PapersOnLine*
+(21st IFAC Symposium on Automatic Control in Aerospace), 52(12), pp. 334–339,
+2019.
+
+[DOI](https://doi.org/10.1016/j.ifacol.2019.11.265) ·
+[Video](https://youtu.be/HDlCM5obl0M)
+
+<div style="clear:both"></div>
+
 ### LiDAR-based Control of Autonomous Rotorcraft for the Inspection of Pier-like Structures
 
 <a href="https://youtu.be/phjW7tHwNCQ"><img src="{static}/images/pubs/phjW7tHwNCQ.jpg" alt="Video: LiDAR-based control for pier inspection" class="float-image-right"></a>
