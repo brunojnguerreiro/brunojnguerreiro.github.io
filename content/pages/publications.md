@@ -19,8 +19,34 @@ The full list, with preprints and BibTeX, is on my
 
 ## Publications with code, data or video
 
-Publications with an associated repository or video, from the most recent to
+Publications that provide a repository or a video, from the most recent to
 the oldest.
+
+### Physics-Informed Neural Network for Multirotor Slung Load Systems Modeling
+
+<a href="https://youtu.be/4N_nnaGsUOg"><img src="{static}/images/pubs/4N_nnaGsUOg.jpg" alt="Video: physics-informed neural network for slung load modelling" class="float-image-right"></a>
+
+G. Serrano, M. Jacinto, J. Ribeiro-Gomes, J. Pinto, B. J. Guerreiro,
+A. Bernardino, R. Cunha. *IEEE International Conference on Robotics and
+Automation (ICRA)*, pp. 12592–12598, 2024.
+
+[DOI](https://doi.org/10.1109/ICRA57147.2024.10610582) ·
+[Code and dataset](https://github.com/GilSerrano/pinn-air) ·
+[Video](https://youtu.be/4N_nnaGsUOg)
+
+<div style="clear:both"></div>
+
+### Event-Triggered Multi-Mode MPC with Application to Modular Aerial Vehicles
+
+<img src="{static}/images/pubs/acc2023-docking.jpg" alt="Simulated docking manoeuvre of two multirotor vehicles" class="float-image-right">
+
+P. Casau, B. J. Guerreiro. *American Control Conference (ACC)*,
+pp. 1209–1214, 2023.
+
+[DOI](https://doi.org/10.23919/ACC55779.2023.10155794) ·
+[Simulation code](https://github.com/pcasau/ACC2023)
+
+<div style="clear:both"></div>
 
 ### Earth-based Simultaneous Localization and Mapping for Drones in Dynamic Environments
 
@@ -34,15 +60,44 @@ Systems*, 104(4), 58, 2022.
 
 <div style="clear:both"></div>
 
+### A Multiple-UAV Architecture for Autonomous Media Production
+
+<a href="https://youtu.be/nRM-TJ2njtg"><img src="{static}/images/pubs/nRM-TJ2njtg.jpg" alt="Video: MULTIDRONE shooting mission with multiple drones" class="float-image-right"></a>
+
+I. Mademlis, A. Torres-González, J. Capitán, M. Montagnuolo, A. Messina,
+F. Negro, C. Le Barz, T. Gonçalves, R. Cunha, B. Guerreiro, F. Zhang, S. Boyle,
+G. Guerout, A. Tefas, N. Nikolaidis, D. Bull, I. Pitas. *Multimedia Tools and
+Applications*, 82(2), pp. 1905–1934, 2022.
+
+[DOI](https://doi.org/10.1007/s11042-022-13319-8) ·
+Videos: [parkour mock-up](https://youtu.be/P_n_PfuEC2A) ·
+[shooting mission](https://youtu.be/nRM-TJ2njtg) ·
+[MultiDrone feature](https://www.youtube.com/watch?v=iLs6Xo87j78)
+
+<div style="clear:both"></div>
+
+### Planning Parcel Relay Manoeuvres for Quadrotors
+
+<a href="https://youtu.be/0xPtaoa6kfY"><img src="{static}/images/pubs/0xPtaoa6kfY.jpg" alt="Video: planning parcel relay manoeuvres for quadrotors" class="float-image-right"></a>
+
+J. Pinto, B. J. Guerreiro, R. Cunha. *International Conference on Unmanned
+Aircraft Systems (ICUAS)*, pp. 137–145, 2021.
+
+[DOI](https://doi.org/10.1109/ICUAS51884.2021.9476757) ·
+[Video](https://youtu.be/0xPtaoa6kfY)
+
+<div style="clear:both"></div>
+
 ### NOVA.DroneArena: Design and Control of a Low-cost Drone Testbed
 
-<img src="{static}/images/code/nova-drone-arena.jpg" alt="Illustration of the NOVA DroneArena netted flight cage with three drones" class="float-image-right">
+<a href="https://youtu.be/lrrOZvvSejY"><img src="{static}/images/pubs/lrrOZvvSejY.jpg" alt="Video: NOVA.DroneArena first experimental trial" class="float-image-right"></a>
 
 H. Cabrita, B. J. Guerreiro. *International Young Engineers Forum (YEF-ECE)*,
 pp. 20–25, 2021.
 
 [DOI](https://doi.org/10.1109/YEF-ECE52297.2021.9505090) ·
-[Code](https://github.com/brunojnguerreiro/nova-drone-arena)
+[Code](https://github.com/brunojnguerreiro/nova-drone-arena) ·
+[Video](https://youtu.be/lrrOZvvSejY)
 
 <div style="clear:both"></div>
 
