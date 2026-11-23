@@ -42,12 +42,11 @@ START, END = "<!-- metrics:start -->", "<!-- metrics:end -->"
 def read_cv(cv_dir):
     tex = (cv_dir / "utils" / "bibliometrics.tex").read_text(encoding="utf-8")
     macros = dict(re.findall(r"\\newcommand\{\\(CV\w+)\}\{(\d+)\}", tex))
-    date = f"{MONTHS[int(macros['CVnMonth']) - 1]} {macros['CVnYear']}"
     rows = {}
     for name, key in (("Web of Science", "WoS"), ("Scopus", "Scopus"),
                       ("Google Scholar", "Scholar")):
         rows[name] = (macros[f"CVnDocs{key}"], macros[f"CVnCites{key}"],
-                      macros[f"CVhindex{key}"], date)
+                      macros[f"CVhindex{key}"])
     return rows
 
 
@@ -57,19 +56,19 @@ def get_json(url):
         return json.load(r)
 
 
-def fetch_apis(today):
+def fetch_apis():
     rows = {}
     try:
         d = get_json(f"https://api.openalex.org/authors/orcid:{ORCID}")
         rows["OpenAlex"] = (str(d["works_count"]), str(d["cited_by_count"]),
-                            str(d["summary_stats"]["h_index"]), today)
+                            str(d["summary_stats"]["h_index"]))
     except Exception as e:  # keep the previous row
         print(f"OpenAlex: failed ({e}), keeping previous values", file=sys.stderr)
     try:
         d = get_json(f"https://api.semanticscholar.org/graph/v1/author/"
                      f"{SEMANTIC_SCHOLAR_ID}?fields=paperCount,citationCount,hIndex")
         rows["Semantic Scholar"] = (str(d["paperCount"]), str(d["citationCount"]),
-                                    str(d["hIndex"]), today)
+                                    str(d["hIndex"]))
     except Exception as e:
         print(f"Semantic Scholar: failed ({e}), keeping previous values", file=sys.stderr)
     return rows
@@ -78,7 +77,7 @@ def fetch_apis(today):
 def previous_rows(page):
     rows = {}
     for name in LINKS:
-        m = re.search(r"^\| \[" + re.escape(name) + r"\]\([^)]*\) \| (\d+) \| (\d+) \| (\d+) \| ([^|]+) \|$",
+        m = re.search(r"^\| \[" + re.escape(name) + r"\]\([^)]*\) \| (\d+) \| (\d+) \| (\d+) \|$",
                       page, re.M)
         if m:
             rows[name] = tuple(g.strip() for g in m.groups())
@@ -99,14 +98,15 @@ def main():
     today = f"{MONTHS[t.month - 1]} {t.year}"
     rows = previous_rows(page)
     rows.update(read_cv(args.cv))
-    rows.update(fetch_apis(today))
+    rows.update(fetch_apis())
 
-    lines = ["| Source | Documents | Citations | h-index | Updated |",
-             "|---|---:|---:|---:|---|"]
+    lines = [f"Last updated: {today}.", "",
+             "| Source | Documents | Citations | h-index |",
+             "|---|---:|---:|---:|"]
     for name in LINKS:
         if name in rows:
-            docs, cites, h, date = rows[name]
-            lines.append(f"| [{name}]({LINKS[name]}) | {docs} | {cites} | {h} | {date} |")
+            docs, cites, h = rows[name][:3]
+            lines.append(f"| [{name}]({LINKS[name]}) | {docs} | {cites} | {h} |")
     table = "\n".join(lines)
 
     new = re.sub(re.escape(START) + r".*?" + re.escape(END),

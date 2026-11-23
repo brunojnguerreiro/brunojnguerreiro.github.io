@@ -9,13 +9,15 @@ page. See also [ORCID](https://orcid.org/0000-0002-4511-5114) and
 ## Metrics
 
 <!-- metrics:start -->
-| Source | Documents | Citations | h-index | Updated |
-|---|---:|---:|---:|---|
-| [Web of Science](https://www.webofscience.com/wos/author/record/C-1257-2008) | 41 | 392 | 10 | November 2026 |
-| [Scopus](https://www.scopus.com/authid/detail.uri?authorId=24780644000) | 55 | 536 | 12 | November 2026 |
-| [Google Scholar](https://scholar.google.pt/citations?user=TdFhrtAAAAAJ) | 68 | 748 | 14 | November 2026 |
-| [OpenAlex](https://openalex.org/authors/orcid:0000-0002-4511-5114) | 63 | 616 | 13 | November 2026 |
-| [Semantic Scholar](https://www.semanticscholar.org/author/2519328) | 48 | 518 | 13 | November 2026 |
+Last updated: November 2026.
+
+| Source | Documents | Citations | h-index |
+|---|---:|---:|---:|
+| [Web of Science](https://www.webofscience.com/wos/author/record/C-1257-2008) | 41 | 392 | 10 |
+| [Scopus](https://www.scopus.com/authid/detail.uri?authorId=24780644000) | 55 | 536 | 12 |
+| [Google Scholar](https://scholar.google.pt/citations?user=TdFhrtAAAAAJ) | 68 | 748 | 14 |
+| [OpenAlex](https://openalex.org/authors/orcid:0000-0002-4511-5114) | 63 | 616 | 13 |
+| [Semantic Scholar](https://www.semanticscholar.org/author/2519328) | 48 | 518 | 13 |
 <!-- metrics:end -->
 
 ## Journal articles
