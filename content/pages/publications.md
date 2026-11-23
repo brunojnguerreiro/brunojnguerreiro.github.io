@@ -35,6 +35,34 @@ Automatic Control and Soft Computing (CONTROLO)*, 2026.
 
 <div style="clear:both"></div>
 
+### Planning Aggressive Drone Manoeuvres: A Geometric Backwards Integration Approach
+
+<a href="https://youtu.be/azqqJ64ueuo"><img src="{static}/images/pubs/azqqJ64ueuo.jpg" alt="Video: planning aggressive drone manoeuvres" class="float-image-right"></a>
+
+J. Pinto, B. J. Guerreiro, R. Cunha. *Journal of Intelligent & Robotic
+Systems*, 111(1), 16, 2025.
+
+[DOI](https://doi.org/10.1007/s10846-024-02214-z) ·
+[Code](https://github.com/dsor-isr/Quad_Ctrl_MAVROS) ·
+[Video](https://youtu.be/azqqJ64ueuo)
+
+<div style="clear:both"></div>
+
+### Fixed-Wing UAV Simulation in PX4 and Gazebo: An AVL-Based Approach
+
+<img src="{static}/images/pubs/yefece2025-easyglider.jpg" alt="CAD model of the EasyGlider fixed-wing UAV with the on-board electronics" class="float-image-right">
+
+F. Cavalheiro, B. J. Guerreiro. *9th International Young Engineers Forum on
+Electrical and Computer Engineering (YEF-ECE)*, pp. 80–85, 2025.
+
+[DOI](https://doi.org/10.1109/YEF-ECE66503.2025.11117433) ·
+Code: [PX4-gazebo-models #79](https://github.com/PX4/PX4-gazebo-models/pull/79),
+[PX4-Autopilot #24373](https://github.com/PX4/PX4-Autopilot/pull/24373),
+[#24374](https://github.com/PX4/PX4-Autopilot/pull/24374) ·
+[Flight test video](https://youtu.be/vL8qdegYdg8)
+
+<div style="clear:both"></div>
+
 ### Physics-Informed Neural Network for Multirotor Slung Load Systems Modeling
 
 <a href="https://youtu.be/4N_nnaGsUOg"><img src="{static}/images/pubs/4N_nnaGsUOg.jpg" alt="Video: physics-informed neural network for slung load modelling" class="float-image-right"></a>
