@@ -22,6 +22,19 @@ The full list, with preprints and BibTeX, is on my
 Publications that provide a repository or a video, from the most recent to
 the oldest.
 
+### Hierarchical Nonlinear Control for Swarm Encirclement Around a Moving Target UAV
+
+<img src="{static}/images/pubs/controlo2026-encirclement.jpg" alt="Simulation: 31 drones distributed on a sphere encircling a moving target" class="float-image-right">
+
+F. Cavalheiro, B. J. Guerreiro. *17th APCA International Conference on
+Automatic Control and Soft Computing (CONTROLO)*, 2026.
+
+[DOI](https://doi.org/10.1109/CONTROLO67943.2026.11771846) ·
+[arXiv](https://arxiv.org/abs/2611.12684) ·
+[Code](https://github.com/Filipe-Cavalheiro/Hierarchical-Nonlinear-Control-for-Swarm-Encirclement-Around-a-Moving-Target-UAV)
+
+<div style="clear:both"></div>
+
 ### Physics-Informed Neural Network for Multirotor Slung Load Systems Modeling
 
 <a href="https://youtu.be/4N_nnaGsUOg"><img src="{static}/images/pubs/4N_nnaGsUOg.jpg" alt="Video: physics-informed neural network for slung load modelling" class="float-image-right"></a>
