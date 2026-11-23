@@ -10,9 +10,8 @@ published by the Cyber-physical and Aerospace Control (CybAer) Lab at NOVA FCT,
 on the institutional GitHub organization
 [github.com/cybaer-nova](https://github.com/cybaer-nova).
 
-## My code contributions
-
-From the most recent to the oldest.
+Below are my code contributions, both in my own repositories and in those of
+other institutions, from the most recent to the oldest.
 
 ### [crazynova2](https://github.com/cybaer-nova/crazynova2)
 
